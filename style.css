@@ -188,6 +188,7 @@ body {
     position: relative;
     width: 65%;
     overflow: hidden;
+    left-margin: 50px;
   }
   
   .carousel-track-container {
